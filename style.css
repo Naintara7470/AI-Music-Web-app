@@ -22,3 +22,8 @@ margin: 15px;
 padding: 10px;
 box-shadow:3px 5px 2px blueviolet;
 }
+canvas{
+    border: 5px solid crimson;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px darksalmon;
+}
